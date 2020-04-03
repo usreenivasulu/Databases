@@ -1,0 +1,10 @@
+to clear the screen
+-- cl scr
+
+
+SQL> alter user hr identified by admin1 account unlock;
+
+User altered.
+
+SQL> connect hr/admin1
+Connected.
